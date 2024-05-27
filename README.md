@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshu-maity.priyanshu-maity&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cup_of_logic.cup_of_logic&"  />
 </div>
 
 ###
