@@ -61,13 +61,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cup-of-logic&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=priyanshu-maity&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cup-of-logic.cup-of-logic&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshu-maity.priyanshu-maity&"  />
 </div>
 
 ###
