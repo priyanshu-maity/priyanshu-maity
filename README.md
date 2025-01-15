@@ -50,7 +50,7 @@
 ---
 
 ### 📕 Latest Blog Posts  
-- [How to Get the Magic Link for Scraping Websites](#)
+- [Dealing with Magic Links in Web Scraping with Python](https://priyanshu-maity.medium.com/dealing-with-magic-links-in-web-scraping-with-python-36b6e1b93d57?source=friends_link&sk=3979a7ba176dbe57e913865417cec04d)
 - [Building a Spotify to YouTube Playlist Converter](#)
 - [Simplifying Scrapy Workflows with Custom Packages](#)
 - [A Deep Dive into Ciphers](#)
