@@ -29,6 +29,11 @@
 
 ---
 
+🔥 GitHub Trophies
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Maity&theme=radical&row=1&column=6&no-frame=true" alt="GitHub Trophies" /> </a> </div>
+
+---
+
 ### 🛠️ Projects  
 | **Project** | **Description** | **Tech Stack** |
 |-------------|-----------------|----------------|
