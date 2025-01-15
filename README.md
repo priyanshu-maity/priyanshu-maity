@@ -41,13 +41,16 @@
 | **Project**                   | **Description**                                                       | **Tech Stack**                                                                                                                     |
 |-------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | [Encoding Package](#)         | A Python package to simplify encryption and decryption operations.    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://img.icons8.com/color/48/cryptography.png" width="25"/> |
-| [Spirograph](#)               | A tool to create beautiful spirograph designs using mathematical patterns. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://img.icons8.com/external-flat-juicy-fish/64/external-paint-palette-arts-and-crafts-flat-flat-juicy-fish.png" width="25" /> |
-| [ASCII Art Generator](#)      | Converts images or text into artistic ASCII art.                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://img.icons8.com/external-flat-juicy-fish/64/external-ascii-code-flat-flat-juicy-fish.png" width="25"/>              |
-| [Scrapy-Toolkit Package](#)   | A toolkit to streamline web scraping tasks with Scrapy.               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrapy/scrapy-original.svg" width="25" />                                  |
+
+| [Scrape-Kit Package](#)   | A toolkit comprising multiple tools to help with web scraping.               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" />                                   |
+
+| [Spotify to YouTube Playlist](#) | Automated playlist transfer tool with advanced search algorithms. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://www.svgrepo.com/svg/354321/selenium.svg" width="25" />                                  |
+
 | [Auto NSE Feed](#)            | Real-time NSE Open Interest scraper with Google Sheets integration.   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://img.icons8.com/ios-filled/50/selenium.png" width="25" /> <img src="https://img.icons8.com/color/48/google-sheets.png" width="25" /> |
-| [Spotify to YouTube Playlist](#) | Automated playlist transfer tool leveraging advanced search algorithms. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://img.icons8.com/ios-filled/50/selenium.png" width="25" />                                                 |
-| [ClearTrack IMS](#)           | Inventory management system with LIFO/FIFO and Google Sheets integration. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://img.icons8.com/external-flat-juicy-fish/64/external-inventory-management-flat-flat-juicy-fish.png" width="25" /> <img src="https://img.icons8.com/color/48/google-sheets.png" width="25" /> |
-| [Restaurant Management System](#) | Efficient management tool for restaurants.                           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25" />                                 |
+
+| [Spirograph](#)               | A tool to create beautiful spirograph designs using mathematical patterns. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://img.icons8.com/external-flat-juicy-fish/64/external-paint-palette-arts-and-crafts-flat-flat-juicy-fish.png" width="25" /> |
+
+| [ASCII Art Generator](#)      | Converts images or text into artistic ASCII art.                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" /> <img src="https://img.icons8.com/external-flat-juicy-fish/64/external-ascii-code-flat-flat-juicy-fish.png" width="25"/>              |
 
 ---
 
