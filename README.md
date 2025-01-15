@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Maity&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Stats" /, height=50>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Maity&layout=compact&theme=radical&hide=html&langs_count=6" alt="Top Languages" /, height=50>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Maity&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Stats" /, height=200>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Maity&layout=compact&theme=radical&hide=html&langs_count=6" alt="Top Languages" /, height=200>
 </div>
 
 ---
