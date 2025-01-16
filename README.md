@@ -40,10 +40,10 @@
 
 **🕸️ Web Scraping & Automation**
 
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%233472A3.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 [![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Scrapy](https://img.shields.io/badge/Scrapy-%23FF5A00.svg?style=for-the-badge&logo=scrapy&logoColor=white)](https://scrapy.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-%23007ACC.svg?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://playwright.dev/)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%233472A3.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 
 **☁️ APIs and Integrations**  
 
@@ -81,7 +81,7 @@
 - [Dealing with Magic Links in Web Scraping with Python](https://priyanshu-maity.medium.com/dealing-with-magic-links-in-web-scraping-with-python-36b6e1b93d57?source=friends_link&sk=3979a7ba176dbe57e913865417cec04d)
 - [Caesar Cipher: Explained in detail](https://priyanshu-maity.medium.com/caesar-cipher-explained-in-detail-a33c36b8b9e4)
 - [How to scrape dynamic pages using Python Selenium](https://priyanshu-maity.medium.com/how-to-scrape-dynamic-pages-using-python-selenium-2b464cfa63be)
-- [How to scrape static pages in Python]([#](https://priyanshu-maity.medium.com/how-to-scrape-static-pages-in-python-f948be017198))
+- [How to scrape static pages in Python](https://priyanshu-maity.medium.com/how-to-scrape-static-pages-in-python-f948be017198)
 
 > Check out more at [My Blog](https://priyanshu-maity.medium.com).
 
