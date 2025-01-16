@@ -96,7 +96,7 @@
 ---
 
 ### 🎨 Fun Stuff  
-- ⚡ **Fun fact:** Automating tasks makes me feel like a wizard. 🧙‍♂️  
+- ⚡ **Fun fact:** If I can automate a task, you bet I will! It saves me time and makes life a lot more efficient.  
 - 🧩 **Hobbies:** Reading self-help books, listening to music, and exploring the magic of AI.
 
 ---
