@@ -15,12 +15,18 @@
 ---
 
 ### 🔧 Technologies & Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
-![Scrapy](https://img.shields.io/badge/-Scrapy-1A1A1A?logo=scrapy&logoColor=white&style=flat)
-![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F61?style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF9A00.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%23007396.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Scrapy](https://img.shields.io/badge/Scrapy-%23FF5A00.svg?style=for-the-badge&logo=scrapy&logoColor=white)](https://scrapy.org/)
+[![Playwright](https://img.shields.io/badge/Playwright-%23007ACC.svg?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://playwright.dev/)
 
 ---
 
