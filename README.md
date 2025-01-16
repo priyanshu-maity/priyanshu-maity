@@ -17,6 +17,7 @@
 ### 🔧 Technologies & Tools  
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF9A00.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
@@ -27,6 +28,7 @@
 [![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Scrapy](https://img.shields.io/badge/Scrapy-%23FF5A00.svg?style=for-the-badge&logo=scrapy&logoColor=white)](https://scrapy.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-%23007ACC.svg?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://playwright.dev/)
+[![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-%2300C853.svg?style=for-the-badge&logo=googlesheets&logoColor=white)](https://developers.google.com/sheets)
 
 ---
 
