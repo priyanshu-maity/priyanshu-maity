@@ -6,7 +6,7 @@
 ---
 
 ### 🌟 About Me  
-- 💼 Worked as a Web Scraping Developer at [BIDSINFORMATIC Pvt. Ltd.](#https://bidsinfoglobal.com)
+- 💼 Worked as a Web Scraping Developer at [BIDSINFOMATICS Pvt. Ltd](#https://bidsinfoglobal.com)
 - 💻 Specialize in **Python**, **Selenium**, **Scrapy**, and automation tools.
 - 📚 Constant learner exploring **Machine Learning**, **AI**, and advanced programming.
 - ✍️ Blogging about encryption, scraping, and solving real-world problems through code.  
@@ -51,26 +51,26 @@
 
 ### 📕 Latest Blog Posts  
 - [Dealing with Magic Links in Web Scraping with Python](https://priyanshu-maity.medium.com/dealing-with-magic-links-in-web-scraping-with-python-36b6e1b93d57?source=friends_link&sk=3979a7ba176dbe57e913865417cec04d)
-- [Building a Spotify to YouTube Playlist Converter](#)
-- [Simplifying Scrapy Workflows with Custom Packages](#)
-- [A Deep Dive into Ciphers](#)
+- [Caesar Cipher: Explained in detail](https://priyanshu-maity.medium.com/caesar-cipher-explained-in-detail-a33c36b8b9e4)
+- [How to scrape dynamic pages using Python Selenium](https://priyanshu-maity.medium.com/how-to-scrape-dynamic-pages-using-python-selenium-2b464cfa63be)
+- [How to scrape static pages in Python]([#](https://priyanshu-maity.medium.com/how-to-scrape-static-pages-in-python-f948be017198))
 
-> Check out more at [My Blog](#).
+> Check out more at [My Blog](https://priyanshu-maity.medium.com).
 
 ---
 
 ### 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/priyanshu-maity/)  
-[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?logo=upwork&logoColor=white&style=flat)](https://www.upwork.com/freelancers/~01xxxxxxxxxxxxxx)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Priyanshu-Maity)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=react&logoColor=white&style=flat)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.maity2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshumaity_official)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PriyanshuMaity)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/priyanshu-maity-34a92230a/)  
 
 ---
 
 ### 🎨 Fun Stuff  
 - ⚡ **Fun fact:** Automating tasks makes me feel like a wizard. 🧙‍♂️  
-- 🧩 **Hobbies:** Puzzles, reading self-help books, and exploring the magic of AI.
+- 🧩 **Hobbies:** Reading self-help books, listening to music, and exploring the magic of AI.
 
 ---
 
-_“The best way to predict the future is to invent it.” — Alan Kay_
+_“Winners never Quit, and Quitters never Win.” — Vince Lombardi_
