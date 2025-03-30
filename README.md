@@ -6,7 +6,6 @@
 ---
 
 ### 🌟 About Me  
-- 💼 Worked as a Web Scraping Developer at [BIDSINFOMATICS Pvt. Ltd](https://bidsinfoglobal.com)
 - 💻 Specialize in **Python**, **Selenium**, **Scrapy**, and automation tools.
 - 📚 Constant learner exploring **Machine Learning**, **AI**, and advanced programming.
 - ✍️ Blogging about encryption, scraping, and solving real-world problems through code.  
